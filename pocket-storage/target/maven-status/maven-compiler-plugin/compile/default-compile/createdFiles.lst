@@ -1,0 +1,11 @@
+com\pockets\model\Catalog.class
+com\pockets\controller\PocketController.class
+com\pockets\model\PocketMeta.class
+com\pockets\service\PocketReconstructService.class
+com\pockets\storage\StorageStrategy.class
+com\pockets\metadata\CatalogService.class
+com\pockets\service\PocketStorageService.class
+com\pockets\storage\LocalStorageStrategy.class
+com\pockets\controller\PocketReconstructController.class
+com\pockets\PocketStorageApp.class
+com\pockets\config\PocketProperties.class

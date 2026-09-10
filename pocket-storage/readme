@@ -1,0 +1,20 @@
+pocket-storage/
+ ├── pom.xml
+ ├── src/main/java/com/pockets/
+ │    ├── PocketStorageApp.java
+ │    ├── config/
+ │    │    └── PocketProperties.java
+ │    ├── model/
+ │    │    ├── PocketMeta.java
+ │    │    └── Catalog.java
+ │    ├── storage/
+ │    │    ├── StorageStrategy.java
+ │    │    └── LocalStorageStrategy.java
+ │    ├── metadata/
+ │    │    └── CatalogService.java
+ │    ├── service/
+ │    │    └── PocketStorageService.java
+ │    └── controller/
+ │         └── PocketController.java
+ └── src/main/resources/
+      └── application.yml

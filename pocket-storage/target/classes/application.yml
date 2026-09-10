@@ -1,0 +1,10 @@
+pockets:
+  size: 13421772
+  clusterNodes:
+    - C:\\Projects\\DataFlakes\\Prototype\\V1\\Environment\\cluster\\node1
+    - C:\\Projects\\DataFlakes\\Prototype\\V1\\Environment\\cluster\\node2
+    - C:\\Projects\\DataFlakes\\Prototype\\V1\\Environment\\cluster\\node3
+    - C:\\Projects\\DataFlakes\\Prototype\\V1\\Environment\\cluster\\node4
+
+metadata:
+  catalogPath: C:\\Projects\\DataFlakes\\Prototype\\V1\\Environment\\cluster\\metadata\\catalog.json
